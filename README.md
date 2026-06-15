@@ -16,7 +16,8 @@ View the interactive Tableau Dashboard here:
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](NetflixDashboard.png)
+<img width="1440" height="900" alt="Screenshot 2026-06-15 at 7 10 35 PM" src="https://github.com/user-attachments/assets/5dac1b1e-d853-419b-90aa-4f44575f8a7b" />
+
 <img width="2638" height="1318" alt="Netflix" src="https://github.com/user-attachments/assets/8b9a8839-efca-415f-8070-5eb3abc53453" />
 
 ---
